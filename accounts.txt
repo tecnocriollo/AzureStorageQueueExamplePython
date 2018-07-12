@@ -1,5 +1,0 @@
-# when testing examples
-queue_service = QueueService(account_name='psacnehz1982storage', account_key='eiVqaEbWfZA51vas1tKk4bLZIiIbBrvU7vtK8gAKFYWnCwD04TAW7mgCh1X5Fw27uKeSdW6R6aBzg8t9F25WyQ==')
-
-# before commit and push
-queue_service = QueueService(account_name='xxx', account_key='xxx')
