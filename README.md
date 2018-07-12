@@ -1,6 +1,5 @@
 # AzureStorageQueueExample
 
-[English](#English) [Español](#Español)
  
 ## English
 
