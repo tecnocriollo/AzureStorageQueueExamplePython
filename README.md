@@ -1,9 +1,10 @@
 # Azure Storage Queue Example For Python
 
-[English](#english) [Español](#español)
+
  
 ## English
 
+[Leer en Español](#español)
 A simple example using Azure Store Queues For Python
 
 You have to change the line below with your storage account name and storage account key from Azure Portal
@@ -27,6 +28,8 @@ After that you can you queue_send to send messages to both queues, then review t
 
 
 ## Español
+
+[Read in English](#english) 
 
 Un ejemplo simple sobre el uso de Azure Queues
 
