@@ -1,6 +1,6 @@
 # Azure Storage Queue Example For Python
 
-[English](#english) [Español](#espanol)
+[English](#english) [Español](#español)
  
 ## English
 
